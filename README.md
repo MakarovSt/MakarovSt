@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! I'm Stanislav 👋 I’m currently learning qa engeneering and software testing ⚡
 
 <!--
 **MakarovSt/MakarovSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
